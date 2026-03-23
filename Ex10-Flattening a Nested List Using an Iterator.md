@@ -14,8 +14,8 @@ To design and implement a class NestedIterator that flattens a nested list of in
 ```
 /*
 Program to find Flattening a Nested List Using an Iterator
-Developed by: VIMALA RANI A
-RegisterNumber:  212223040240
+Developed by: SAI SANJAY R
+RegisterNumber:  212223040178
 */
 ```
 ```
